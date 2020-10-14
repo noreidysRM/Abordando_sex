@@ -14,8 +14,10 @@ class Nivel1Fundamentos extends React.Component {
                     NIVEL 1 - FUNDAMENTOS 
                    </span>
                </nav>
+
                
-                 <br />
+               <br />
+
                  <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=cZYZzr1G2iQ&t=5s" allowfullscreen></iframe>
 </div>
