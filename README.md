@@ -1,2 +1,2 @@
-# Abordando_sex
+# SNProyecto
 Created with CodeSandbox
