@@ -6,7 +6,7 @@ class Menu extends React.Component {
     <div class="container">
           <div class="row tex-center">
 
-                <div class="col-sm">
+                <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4">
                 
                  <br />
                  <br />
@@ -15,7 +15,7 @@ class Menu extends React.Component {
 
                  
 
-             <div class="col-sm">
+             <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4">
                  
                  <br />
                  <br />
@@ -51,7 +51,7 @@ class Menu extends React.Component {
              </div>
 
 
-               <div class="col-sm">
+               <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4">
                  <br />
                  <br />
                  <br />
