@@ -14,13 +14,11 @@ class Nivel1Fundamentos extends React.Component {
                     NIVEL 1 - FUNDAMENTOS 
                    </span>
                </nav>
-
+               
                
                <br />
-
-                 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=cZYZzr1G2iQ&t=5s" allowfullscreen></iframe>
-</div>
+               <iframe width="807" height="605" src="https://www.youtube.com/embed/cZYZzr1G2iQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>           
+               
                 <br />
                 <button type="button" class="btn btn-secondary btn-lg">
                               <a className="nav-link active text-dark" href="Nivel1_2">Siguiente</a>
