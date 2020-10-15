@@ -8,9 +8,11 @@ class PartesDelCuerpo_1 extends React.Component {
          <div className="row">
            <div className="col-sm">
              <div className="text-center">
+                      <br />
 
                   <h1>CONOCE TU CUERPO  </h1>
-                  <img src="https://cdn.kastatic.org/ka-perseus-images/57a987de373e1d4fe193d3ac4d73a423167fdd6f.jpg" class="rounded mx-auto d-block" alt="..."/>
+                  <br />
+                  <img src="https://www.aego.es/i_web/utero-trompas-ovarios.jpg" class="rounded mx-auto d-block" alt="..."/>
                  <br />
                   <button type="button" class="btn btn-secondary btn-lg">
                     <a className="nav-link active text-dark" href="ConoceTuCuerpoSiguiente">Siguiente</a>
